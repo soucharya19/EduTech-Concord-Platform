@@ -1,12 +1,14 @@
-# iemhacks_DevHacks
+# Hack it Out Celesta IIT PATNA
 
 **IEMHACKS 2.0**- 36 Hours Online Webdev Hackathon organized by the Department of IT, CSE(IOT), CSE(IOTCSBT) of the **Institute of Engineering and Management, Kolkata**
 
-**TEAM NAME** - DevHacks
+**TEAM NAME** - Hack Buddys
 
-**TEAM LEADER** - Soumalya Bhattacharyya(Github Username - soubhatta)
+**TEAM LEADER** - Soumalya Bhattacharyya(Github Username - soucharya19)
 
-**OTHER TEAMMATE** - Arijit Nandi(GitHub Username - ArijitNandi123 )
+**2nd TEAMMATE** - Arijit Nandi(GitHub Username - ArijitNandi123 )
+
+**3rd TEAMMATE** - Arijit Nandi(GitHub Username - ArijitNandi123 )
 
 **THEME** - Ed-Tech:Rewrite the narrative of education with digital prowess. Develop platforms that empower learners, redefine teaching methodologies, and pave the way for a tech-savvy education ecosystem.
 
